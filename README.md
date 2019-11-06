@@ -38,7 +38,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [🚀 Environment setup](#-environment-setup)
+* [🚀 Environment setup](#-environment-setup)❤❤❤
   * [🐳 Needed tools](#-needed-tools)
   * [🛠️ Environment configuration](#-environment-configuration)
   * [🌍 Application execution](#-application-execution)
